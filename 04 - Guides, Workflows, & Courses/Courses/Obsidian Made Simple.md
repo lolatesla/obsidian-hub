@@ -6,8 +6,9 @@ tags:
 publish: true
 ---
 # Obsidian Made Simple
+Price: $79.99
 
-Almost 60 lessons grouped by levels (from beginner to advanced) with additional modules to explore workflows and real life examples. Created by [[Francesco D'Alessio]] and [[Justin DiRose]]. [View the course](https://keepproductive.podia.com/obsidian-made-simple)
+Almost 60 lessons grouped by levels (from beginner to advanced) with additional modules to explore workflows and real life examples. Created by [[Francesco D'Alessio]] and [[Justin DiRose]]. [View the course](https://toolacademy.xyz/learn-obsidian/)
 
 %% Hub footer: Please don't edit anything below this line %%
 
